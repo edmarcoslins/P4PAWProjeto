@@ -14,6 +14,7 @@ import entities.Professor;
 import entities.Usuario;
 import services.UsuarioService;
 
+
 public class Teste {
 	public static void main(String[] args) {
 		EntityManagerFactory fac = Persistence.createEntityManagerFactory("bdAcademico");
